@@ -1,6 +1,6 @@
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ededb4cb-3328-4777-83e0-c6be379d5e66" />
 
-# 👋 Welcome to koflerlab
+# 👋 Welcome to the koflerlab
 
 **Quantitative Biomedical Image Analysis** · [Hertie Institute for AI in Brain Health](https://www.hertie.ai/independent-research-groups/research-groups/about/quantitative-biomedical-image-analysis), University of Tübingen
 
@@ -87,9 +87,13 @@ The whole team is involved in the **Health Innovation Lab** at the University of
 [![GitHub](https://img.shields.io/badge/GitHub-neuronflow-181717?logo=github)](https://github.com/neuronflow)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Florian%20Kofler-0A66C2?logo=linkedin)](https://www.linkedin.com/in/florian-kofler/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1ZLJyJ4AAAAJ&hl=en)
+[![X](https://img.shields.io/badge/X-@neuronflow-000000?logo=x)](https://x.com/neuronflow)
 
 ---
 
 ## 📬 Applications
+
+Interested in joining us? **We will open a mailing list soon.** Stay tuned and follow Florian on [LinkedIn](https://www.linkedin.com/in/florian-kofler/) for announcements.
+
 
 Interested in joining us? **We will open a mailing list soon.** Stay tuned and follow Florian on [LinkedIn](https://www.linkedin.com/in/florian-kofler/) for announcements.
