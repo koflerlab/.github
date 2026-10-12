@@ -78,7 +78,7 @@ The whole team is involved in the **Health Innovation Lab** at the University of
 
 - 💼 **News & updates:** we share new papers, software releases, challenges, and open positions on [Florian's LinkedIn](https://www.linkedin.com/in/florian-kofler/)
 - 📚 **Publications:** the full, continuously updated list lives on [Google Scholar](https://scholar.google.com/citations?user=1ZLJyJ4AAAAJ&hl=en)
-- ⭐ **Code:** watch or star our repositories here and in the [BrainLesion](https://github.com/BrainLesion) and [BraTS inpainting](https://github.com/BraTS-inpainting) organization to follow new releases
+- ⭐ **Code:** watch or star our repositories here and in the [BrainLesion](https://github.com/BrainLesion) and [BraTS Inpainting](https://github.com/BraTS-inpainting) organizations to follow new releases
 
 ---
 
