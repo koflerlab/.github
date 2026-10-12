@@ -15,27 +15,27 @@ Our projects range from "ivory tower" methods research to applied work in the cl
 ### 👁️ Human-aligned evaluation
 Do our metrics reflect what experts actually see? Using psychophysics and eye-tracking, we study how experts judge image and segmentation quality, build surrogate models that predict their ratings, and treat label noise and annotation uncertainty as a signal rather than a nuisance.
 - [Are we using appropriate segmentation metrics? Identifying correlates of human expert perception for CNN training beyond rolling the DICE coefficient](https://doi.org/10.59275/j.melba.2023-dg1f) (MELBA 2023)
-- [Deep Quality Estimation: Creating Surrogate Models for Human Quality Ratings](https://doi.org/10.1007/978-3-031-33842-7_1) (BrainLes 2022)
+- [Deep Quality Estimation: Creating Surrogate Models for Human Quality Ratings](https://doi.org/10.1007/978-3-031-33842-7_1) (MICCAI BrainLesion workshop 2022)
 - [Approaching Peak Ground Truth](https://doi.org/10.1109/ISBI53787.2023.10230497) (ISBI 2023)
 
 ### 🧠 Segmentation, metrics & losses
 We build robust segmentation models that hold up across institutions, scanners, and protocols, along with the training objectives and evaluation tools to make sure they get right what matters. Examples include [blob loss](https://github.com/neuronflow/blob_loss) for small, clinically relevant structures, [panoptica](https://github.com/BrainLesion/panoptica) for instance-wise evaluation, and [PeTu](https://github.com/BrainLesion/PeTu), our pipeline for pediatric brain tumors trained on data from the Children's Hospital Zurich. Applications range from brain metastases in multicenter studies to cells in 3D microscopy.
 - [blob loss: Instance Imbalance Aware Loss Functions for Semantic Segmentation](https://doi.org/10.1007/978-3-031-34048-2_58) (IPMI 2023)
-- [Panoptica: instance-wise evaluation of 3D semantic and instance segmentation maps](https://arxiv.org/abs/2312.02608)
-- [Redefining Instance Matching: A Unified Framework for Part-Aware Matching in Panoptic Segmentation Evaluation](https://arxiv.org/abs/2605.31094) (2026)
+- [Panoptica: instance-wise evaluation of 3D semantic and instance segmentation maps](https://arxiv.org/abs/2312.02608) (in preparation)
+- [Redefining Instance Matching: A Unified Framework for Part-Aware Matching in Panoptic Segmentation Evaluation](https://arxiv.org/abs/2605.31094) (NeurIPS 2026)
 - [Development and external validation of an MRI-based neural network for brain metastasis segmentation in the AURORA multicenter study](https://doi.org/10.1016/j.radonc.2022.11.014) (Radiotherapy and Oncology 2023)
 - [Enhancing efficiency in paediatric brain tumour segmentation using a pathologically diverse single-center clinical dataset](https://arxiv.org/abs/2507.22152) (2025)
 
 ### 🎨 Image synthesis
 Generative models that respect anatomy and pathology, such as diffusion-based 3D inpainting of healthy brain tissue, used to stress-test downstream models before they reach the clinic. We are also working out how to evaluate synthetic images in ways that match expert perception.
-- [The BraTS Challenge: Local Synthesis of Healthy Brain Tissue via Inpainting](https://arxiv.org/abs/2305.08992)
+- [The BraTS Challenge: Local Synthesis of Healthy Brain Tissue via Inpainting](https://arxiv.org/abs/2305.08992) (in preparation)
 - [Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting](https://arxiv.org/abs/2403.14499) (MICCAI DGM 2024)
 - [fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting](https://arxiv.org/abs/2507.13146) (MICCAI DGM 2025)
 
 ### 🧰 Open & scalable translation
 Modular, reproducible tooling for preprocessing, segmentation, and benchmarking, plus decentralized approaches that let institutions collaborate without moving sensitive patient data.
-- [BrainLesion Suite: A flexible and user-friendly framework for modular brain lesion image analysis](https://arxiv.org/abs/2507.09036)
-- [BraTS Orchestrator: Democratizing and disseminating state-of-the-art brain tumor image analysis](https://arxiv.org/abs/2506.13807)
+- [BrainLesion Suite: A flexible and user-friendly framework for modular brain lesion image analysis](https://arxiv.org/abs/2507.09036) (in preparation)
+- [BraTS Orchestrator: Democratizing and disseminating state-of-the-art brain tumor image analysis](https://arxiv.org/abs/2506.13807) (in preparation)
 - [BraTS Toolkit: Translating BraTS Brain Tumor Segmentation Algorithms Into Clinical and Scientific Practice](https://doi.org/10.3389/fnins.2020.00125) (Frontiers in Neuroscience 2020)
 
 ### 🔬 Beyond radiology
@@ -78,7 +78,7 @@ The whole team is involved in the **Health Innovation Lab** at the University of
 
 - 💼 **News & updates:** we share new papers, software releases, challenges, and open positions on [Florian's LinkedIn](https://www.linkedin.com/in/florian-kofler/)
 - 📚 **Publications:** the full, continuously updated list lives on [Google Scholar](https://scholar.google.com/citations?user=1ZLJyJ4AAAAJ&hl=en)
-- ⭐ **Code:** watch or star our repositories here and in the [BrainLesion](https://github.com/BrainLesion) organization to follow new releases
+- ⭐ **Code:** watch or star our repositories here and in the [BrainLesion](https://github.com/BrainLesion) and [BraTS Inpainting](https://github.com/BraTS-inpainting) organizations to follow new releases
 
 ---
 
@@ -95,5 +95,3 @@ The whole team is involved in the **Health Innovation Lab** at the University of
 
 Interested in joining us? **We will open a mailing list soon.** Stay tuned and follow Florian on [LinkedIn](https://www.linkedin.com/in/florian-kofler/) for announcements.
 
-
-Interested in joining us? **We will open a mailing list soon.** Stay tuned and follow Florian on [LinkedIn](https://www.linkedin.com/in/florian-kofler/) for announcements.
